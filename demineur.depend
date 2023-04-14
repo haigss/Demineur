@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666626250 source:/home/hp/C/demineur/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
