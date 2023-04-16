@@ -1,2 +1,2 @@
 # Demineur
-Realiser en C
+Realiser en C, avec petite intelligence artificielle (niveau 0)
